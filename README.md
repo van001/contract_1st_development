@@ -5,4 +5,8 @@ Many a times in the night/ weekend she has gotten a message through it and has r
 
 The website, built in 2013, is completely serverless & 100% responsive. It has been since running with very little maintenance and zero downtime. 
 
+And then Covid19 happened and world suddenly got virtual, she felt why not make the wbesite more dynamic and modern for the next generation.
+
+This project is series of projects that I will be building before I build the next geneation website for her.
+
 # Philosophy
