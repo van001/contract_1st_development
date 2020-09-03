@@ -3,7 +3,6 @@ My wife runs a small family veterinary practice in a beautiful town of Mill Vall
 Six 6 years ago when she acquired the practice, I helped her build the website along with some of the cool features which are completely unique to her website like "Ask your doctor". 
 Many a times in the night/ weekend she has gotten a message through it and has replied to provide quality care for her pet family. Making "Online" appintments is very easy and intuitive and she get many requests per day.
 
-The site was completly built serverless & responsive in 2013 and has been running with very little maintenance. 
-
+The website, built in 2013, is completely serverless & 100% responsive. It has been since running with very little maintenance and zero downtime. 
 
 # Philosophy
