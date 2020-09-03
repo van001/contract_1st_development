@@ -1,1 +1,4 @@
-# how_to_build_microservices_with_contract_1st
+# Motivation
+Coming soon...
+
+# Philosophy
