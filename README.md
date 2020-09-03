@@ -9,5 +9,5 @@ And then Covid19 happened and world suddenly got virtual, she felt the need for 
 This project is one of the series of projects that I will be building before I build the next generation website for her.
 
 # Philosophy
-Since I am a big fan of automation, I am going to pick tools/ technoligies and build architecture & frameworks to help me 
+Since I am a big fan of automation, I am going to pick tools/ technologies and build architecture & frameworks to help me 
 automate the build, deployment and testing process while keeping the cost as low as possible.
