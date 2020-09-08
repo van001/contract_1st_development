@@ -4,7 +4,7 @@ Six 6 years ago when she acquired the practice, I helped her build the website a
 Many a times in the night/ weekend she has gotten a message through it and has replied to provide quality care for her pet family. 
 Making "Online" appointments is very easy and intuitive and she get many requests every day.
 
-And then Covid19 happened and world suddenly got more virtual, she felt the need for more dynamic and next generation website.
+And then Covid19 happened and world suddenly got more virtual, she felt the need for more dynamic, personal and next generation website.
 
 This project is one of the series of projects that I will be building before I build the next generation website for her.
 
