@@ -8,7 +8,7 @@ like making "Online Appointments", seeking "Directions", looking for "Promotions
 And then Covid19 happened. World suddenly got more virtual. She right away felt the need for more automation, personalization and next generation website that could help
 small business like her to thrive.
 
-I will be using this repo to blog about the journey, the architecture, the philosophy on how I am going to build the new site for her. 
+I will be using this repo to blog about the architecture & the philosophy on how I am going to build the new site for her. 
 
 # Philosophy
 Since I am a big fan of automation, I am going to pick tools/ technologies and build architecture & frameworks to help me 
