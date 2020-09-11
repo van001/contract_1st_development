@@ -5,7 +5,7 @@ Many a times, in the night/ weekend, she has gotten a message through it and has
 When I intially designed her webiste, I made  sure it was 100% responsive, loads fast in every device, contain all the important informations
 like making "Online Appointments", seeking "Directions", looking for "Promotions", right on the face. Above all it was very intuitve and built entirely serveless.
 
-And then Covid19 happened. World suddenly got more virtual.She fright aways felt the need for more automation, personalization and next generation website that could help
+And then Covid19 happened. World suddenly got more virtual. She right away felt the need for more automation, personalization and next generation website that could help
 small business like her to thrive.
 
 I will be using this repo to blog about the journey, the architecture, the philosophy on how I am going to build the new site for her. 
