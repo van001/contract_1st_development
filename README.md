@@ -6,7 +6,7 @@ Making "Online" appointments is very easy and intuitive and she get many request
 
 And then Covid19 happened and world suddenly got more virtual, she felt the need for more dynamic, personal and next generation website.
 
-This project is one of the series of projects that I will be building before I build the next generation website for her.
+I will be using this repo to blog about the architecture/ philosophy on how I am going to build the new site for her. 
 
 # Philosophy
 Since I am a big fan of automation, I am going to pick tools/ technologies and build architecture & frameworks to help me 
