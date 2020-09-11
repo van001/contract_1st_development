@@ -11,5 +11,8 @@ small business like her to thrive.
 I will be using this repo to blog about the architecture & the philosophy on how I am going to build the new site for her. 
 
 # Philosophy
-Since I am a big fan of automation, I am going to pick tools/ technologies and build architecture & frameworks to help me 
-automate the build, deployment and testing process while keeping the cost as low as possible.
+Since I am a big fan of simplicity & automation, I am going to pick tools/ technologies to build architecture & frameworks, 
+which will help me to automate the build, deployment and testing process while keeping the cost as low as possible. 
+
+Even though the architecture and framework will be opinionated, I will try to make it as generic as possible and replacing
+one tech with other should not make any difference.
