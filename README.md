@@ -3,7 +3,7 @@ My wife runs a small family veterinary practice in a beautiful town of Mill Vall
 Six 6 years ago when she acquired the practice, I helped her build the website along with some of the cool features which are completely unique to her website like "Ask your doctor". 
 Many a times, in the night/ weekend, she has gotten a message through it and has replied to provide quality care for her pet family. 
 When I intially designed her webiste, I made  sure it was 100% responsive, loads fast in every device, contain all the important informations
-like making "Online Appointments", seeking "Directions", looking for "Promotions", right on the face. Above all it was very intuitve and built entirely serveless.
+like making "Online Appointments", seeking "Directions", looking for "Promotions", right on the face. Above all it was very intuitve and built entirely serverless.
 
 And then Covid19 happened. World suddenly got more virtual. She right away felt the need for more automation, personalization and next generation website that could help
 small business like her to thrive.
