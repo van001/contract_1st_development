@@ -16,3 +16,7 @@ which will help me  automate the build, deployment and testing process while kee
 
 Even though the architecture and framework will be opinionated, I will try to make it as generic as possible and replacing
 one tech with other should not make any difference.
+
+# Architecture
+
+![arch.png](arch.png)
