@@ -24,6 +24,7 @@ one tech with other should not make any difference.
 - API 1st (contract based development). All state management happens through API, no exceptions. 
 - Micro service development pattern. Each service will have it's own API (yaml) file. Deployment may still be uniform (all API together).
 - CI/ CD (continious integration and deployment). Trunk is always deployed automatically (once the test passes). 
+- Kanban board  for agile development.
 - TDD (Test driven development). Every piece of code comes with a test.
 - UI will be a mix of SPA (Single Page App) and static (better SEO). Always deployed serveless via CDN.
 - NOSQL for storage. Single table design.
