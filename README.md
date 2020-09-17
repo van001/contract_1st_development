@@ -20,3 +20,9 @@ one tech with other should not make any difference.
 # Architecture
 
 ![arch.png](arch.png)
+
+- API 1st (contract based development). All state management happens through API, no exceptions. Open API 3.0 for definit contracts.
+- Micro service development pattern. Each service will have it's own API (yaml) file. Deployment may still be uniform (all API together).
+- CI/ CD (continious integration and deployment). Trunk is always deployed automatically (once the test passes).
+- TDD (Test driven development). Every piece of code comes with a test.
+- UI will be a mix of SFA (single page app) and static (better SEO). ALways deployed serveless (via CDN).
