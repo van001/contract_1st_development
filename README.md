@@ -21,7 +21,7 @@ one tech with other should not make any difference.
 
 ![arch.png](arch.png)
 
-- API 1st (contract based development). All state management happens through API, no exceptions. Open API 3.0 for definit contracts.
+- API 1st (contract based development). All state management happens through API, no exceptions. Open API 3.0 for defining contracts.
 - Micro service development pattern. Each service will have it's own API (yaml) file. Deployment may still be uniform (all API together).
 - CI/ CD (continious integration and deployment). Trunk is always deployed automatically (once the test passes).
 - TDD (Test driven development). Every piece of code comes with a test.
