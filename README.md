@@ -25,4 +25,5 @@ one tech with other should not make any difference.
 - Micro service development pattern. Each service will have it's own API (yaml) file. Deployment may still be uniform (all API together).
 - CI/ CD (continious integration and deployment). Trunk is always deployed automatically (once the test passes).
 - TDD (Test driven development). Every piece of code comes with a test.
-- UI will be a mix of SFA (single page app) and static (better SEO). ALways deployed serveless (via CDN).
+- UI will be a mix of SPA (Single Page App) and static (better SEO). Always deployed serveless (via CDN).
+- NOSQL (dynamo DB) for storage. Single table design.
