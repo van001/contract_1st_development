@@ -22,7 +22,8 @@ one tech with other should not make any difference.
 ![arch.png](arch.png)
 
 - API 1st (contract based development). Data in/out happens through API, no exceptions. 
-- Micro service development pattern. Each service will have it's own API (yaml) file. Deployment may still be uniform (all API together).
+- Micro service development pattern. Each service will have it's own API (yaml) file. Deployment may still be uniform (all API together),
+for cost savings.
 - CI/ CD (continious integration and deployment). Trunk is always deployed automatically (once the test passes). 
 - Kanban board  for agile development.
 - TDD (Test driven development). Every piece of code comes with a test.
